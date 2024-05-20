@@ -1,10 +1,10 @@
 # Pengenalan Kecerdasan Buatan
 
 Teori Menjelaskan :
-* Definisi Kecerdasan Buatan cepat dan tepat
-* Training proses dijadikannya
-* Accuracy mengukur data hasil outputan
-* Data Preparasi memvalidasi inputan
+* Definisi Kecerdasan Buatan: cepat dan tepat
+* Training :melatih data menjadi model
+* Accuracy :mengukur data hasil outputan
+* Data Preparasi: memvalidasi inputan
 
 ## Python
 
