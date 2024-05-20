@@ -24,6 +24,7 @@ Kerjakan :
 * ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/6876bf2c-7017-4360-9ec5-9c2cca12d901)
 
 * Pahami sintaks dasar python
+![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/feeba473-ad36-46a8-b457-ab0da78355b6)
 
 ## Dataframe Pandas untuk data preparasi
 
@@ -37,7 +38,8 @@ Kerjakan:
 * ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/ec777a8f-75b9-4a81-a885-651c93ccb46c)
 
 * Contoh kode penggunaan tensorflow
-* 
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/b48dce32-0666-4285-b5ec-ce549c675b98)
+
 
 ## Kerjakan
 
@@ -61,3 +63,11 @@ Kerjakan:
 13. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/a383ab26-e0e2-44f5-bb42-116d19d9a275)
 
 14. Jelaskan setiap error yang didapatkan ketika menjalankan program, berikut solusi untuk mengatasinya
+15. Daftar Erorr:
+16. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/1a5d42fa-133d-44cc-8bef-157ac74b8d53)
+17. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/43ddaca3-8f07-4ca2-a6ad-4d520ed12ad8)
+18. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/1e4b7c2b-8abc-4f0e-b1f7-83bc694b77b2)
+19. 
+
+
+
