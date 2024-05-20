@@ -1,20 +1,28 @@
 # Pengenalan Kecerdasan Buatan
 
 Teori Menjelaskan :
-* Definisi Kecerdasan Buatan
-* Training
-* Accuracy
-* Data Preparasi
+* Definisi Kecerdasan Buatan cepat dan tepat
+* Training proses dijadikannya
+* Accuracy mengukur data hasil outputan
+* Data Preparasi memvalidasi inputan
 
 ## Python
 
 [Pengenalan Python](https://www.youtube.com/watch?app=desktop&v=NxJBY8D8ZUk&ab_channel=RollyMaulanaAwangga)
 
 Kerjakan :
-* Pahami bagaimana instalasi python
+* Pahami bagaimana instalasi python sudah
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/09458fcb-c355-4273-b093-4cc962fde075)
+
 * Pahami bagaimana menggunakan python di cmd atau terminal
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/738c968a-d815-4dca-92a7-593e81059d16)
+
 * Pahami kegunaan pip
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/a592c2fa-b2a9-4b40-b676-0d9206ef5406)
+
 * Pahami kegunaan file requirements.txt di python
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/6876bf2c-7017-4360-9ec5-9c2cca12d901)
+
 * Pahami sintaks dasar python
 
 ## Dataframe Pandas untuk data preparasi
@@ -26,7 +34,10 @@ Kerjakan :
 
 Kerjakan:
 * Cara instalasi tensorflow
-* Contoh kode penggunaan tensorflow 
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/ec777a8f-75b9-4a81-a885-651c93ccb46c)
+
+* Contoh kode penggunaan tensorflow
+* 
 
 ## Kerjakan
 
