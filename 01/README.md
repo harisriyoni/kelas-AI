@@ -42,8 +42,22 @@ Kerjakan:
 ## Kerjakan
 
 1. Fork dan Clone kode program yang ada di repo [nlp](https://github.com/mymyid/nlp)
-2. Jalankan file preprocessing.py kemudian jelaskan per baris dari kode tersebut
-3. Jalankan file training.py kemudian jelaskan per baris dari kode tersebut
-4. Output dari training menghasilkan satu buah model, buatlah kode program python untuk me load model tersebut kemudian meminta inputan dari user dan outputan dari hasil model
-5. Ukur akurasi dari setiap inputan dan outputan model tersebut kemudian di rekap dalam spreadsheet
-6. Jelaskan setiap error yang didapatkan ketika menjalankan program, berikut solusi untuk mengatasinya
+2. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/38ee2090-077a-4de0-b3b7-91aa87186ac2)
+
+3. Jalankan file preprocessing.py kemudian jelaskan per baris dari kode tersebut
+4. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/cafbbf73-d63f-4512-aed8-99480d7e0a4c)
+5. penjelasan belum
+
+6. Jalankan file training.py kemudian jelaskan per baris dari kode tersebut
+7. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/0a159310-a78e-414f-b06b-329b1ab88a86)
+8. penjelasan belum
+
+9. Output dari training menghasilkan satu buah model, buatlah kode program python untuk me load model tersebut kemudian meminta inputan dari user dan outputan dari hasil model
+10. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/f950bdf9-e963-496d-b4a0-7de9250bcff3)
+11. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/06fa87b9-4559-4eaf-9296-79e4e31f2ead)
+
+
+12. Ukur akurasi dari setiap inputan dan outputan model tersebut kemudian di rekap dalam spreadsheet
+13. ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/a383ab26-e0e2-44f5-bb42-116d19d9a275)
+
+14. Jelaskan setiap error yang didapatkan ketika menjalankan program, berikut solusi untuk mengatasinya
