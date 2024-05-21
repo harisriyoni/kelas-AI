@@ -32,7 +32,14 @@ Tentukan nilai nilai dan hitung akurasi dari setiap hyperparameter yang diubah
 5. Output dari training menghasilkan satu buah model, buatlah kode program python untuk me load model tersebut kemudian meminta inputan dari user dan outputan dari hasil model
 * ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/fa25e7be-8079-4653-9ebe-95af1d187f8e)
 
-*
 7. Ukur akurasi dari setiap inputan dan outputan model tersebut per hyperparameter kemudian di rekap dalam spreadsheet
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/9d04e33d-3faa-464b-8ba7-9de95b2312d0)
+
 
 8. Jelaskan setiap error yang didapatkan ketika menjalankan program, berikut solusi untuk mengatasinya
+* Erorr
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/6bd29b03-5959-4493-919b-c517cb5d86f6)
+* Solusi
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/3cbb2b79-238a-43e4-b2da-e6fdddac27db)
+
+
