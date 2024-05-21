@@ -30,6 +30,8 @@ Kerjakan :
 
 [Pengenalan Dataframe Pandas](https://www.youtube.com/watch?v=AVdkuWgr-ks&pp=ygUOYXdhbmdnYSBwYW5kYXM%3D)\
 [Penggunaan file CSV dengan Pandas](https://www.youtube.com/watch?v=qWbFWL36Ekw&pp=ygUOYXdhbmdnYSBwYW5kYXM%3D)
+* ![image](https://github.com/harisriyoni/kelas-AI/assets/127081929/c8228ae6-a848-4d3c-a4f7-45156fa51614)
+
 
 ## Tensorflow
 
